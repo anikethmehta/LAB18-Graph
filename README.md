@@ -78,6 +78,8 @@ It shows different ways of looking at the connections in the graph, making it us
 
 ### ***Output Screenshot*** :
 
+![image](https://github.com/anikethmehta/LAB18-Graph/assets/52659346/2d96f6d9-a6ca-44ea-a72d-fc1732676003)
+
 Code:
 
 https://github.com/anikethmehta/LAB18-Graph/blob/main/code1.png
