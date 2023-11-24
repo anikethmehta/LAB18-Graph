@@ -80,4 +80,20 @@ It shows different ways of looking at the connections in the graph, making it us
 
 Code:
 
+https://github.com/anikethmehta/LAB18-Graph/blob/main/code1.png
+
+https://github.com/anikethmehta/LAB18-Graph/blob/main/code2.png
+
+https://github.com/anikethmehta/LAB18-Graph/blob/main/code3.png
+
+https://github.com/anikethmehta/LAB18-Graph/blob/main/code4.png
+
+https://github.com/anikethmehta/LAB18-Graph/blob/main/code5.png
+
+https://github.com/anikethmehta/LAB18-Graph/blob/main/code6.png
+
+https://github.com/anikethmehta/LAB18-Graph/blob/main/code7.png
+
 Output:
+
+https://github.com/anikethmehta/LAB18-Graph/blob/main/output.png
